@@ -15,7 +15,7 @@ A entrega deverá ser realizada até o dia 07/08
 *   Link do Github com o projeto rails utilizado:
     *   Deve ter os arquivo com as migrações realizadas e;
     *   O schema do banco de dados gerado a partir das migrations;
-*   Diagrama gerado (pode ser o link compartilhavel do **dbdiagram**).
+*   Diagrama gerado (pode ser o link compartilhavel do **dbdiagram**). - https://dbdiagram.io/d/64cd3d2402bd1c4a5e441f69
 
 ### **O que deve ser feito:**
 
